@@ -16,7 +16,7 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-#Program to #Square root of a number.
+#Program to Square root of a number.
 #Developed by: suji.G
 #RegisterNumber:22008563
 def newton(number,number_iters=100):
